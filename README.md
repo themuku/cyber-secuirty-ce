@@ -207,5 +207,3 @@ For more information on the tools used in this guide, refer to their official do
 - [Ettercap Documentation](https://www.ettercap-project.org/)
 - [Wireshark Documentation](https://www.wireshark.org/docs/)
 - [aircrack-ng Documentation](https://www.aircrack-ng.org/)
-
-```
